@@ -4,7 +4,7 @@ Projects completed as part of my journey to become a Certified Business Intellig
 
 | Project Number | Title | Description |
 | :------------: | :----- | :----------- |
-| 1 | [Vanessa-Certified-BIA-Specialist](https://github.com/VanessaBIACertified/Vanessa-Certified-BIA-Specialist) | A personal portfolio showcasing my journey as a Business Intelligence Analyst in training, highlighting technical skills in SQL, Excel, Power BI, and Tableau, with a strong focus on data-driven decision making. |
+| 1 | [Vanessa-Certified-BIA-Speicalist](https://github.com/VanessaBIACertified/Vanessa-Certified-BIA-Speicalist) | A personal portfolio showcasing my journey as a Business Intelligence Analyst in training, highlighting technical skills in SQL, Excel, Power BI, and Tableau, with a strong focus on data-driven decision making. |
 | 2 | [Data_projects_TripleTen](https://github.com/VanessaBIACertified/Data_projects_TripleTen) | A series of projects completed during the TripleTen Business Intelligence Analyst Bootcamp, covering rental market analysis, SQL pattern discovery, e-commerce funnel analysis, Tableau dashboarding, and customer return analysis. |
 | 3 | [Superstore-Return-Analysis](https://github.com/VanessaBIACertified/Superstore-Return-Analysis) | A Tableau dashboard analyzing product return patterns across categories, regions, and customer segments using the SuperStore dataset to uncover operational insights. |
 | 4 | [Advertising-Dashboard](https://github.com/VanessaBIACertified/Advertising-Dashboard) | A Tableau dashboard that visualizes advertising performance, including spend analysis, ROI by region and channel, and campaign effectiveness to support strategic marketing decisions. |
